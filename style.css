@@ -1,0 +1,24 @@
+
+body {
+  background-color:#E7E9EB;
+}
+#myDIV {
+  width:100%;
+  position:absolute;
+  height:300px;
+  background-color:#FFFFFF;
+}
+#myDIV div{
+  width:100px;
+  height:100px;
+  position:absolute;
+  background-color:yellow;
+  border:1px solid;
+  opacity:0.5;
+}
+#myBox {
+  position:absolute;
+  background-color:red!important;
+  opacity:1!important;
+  z-index: 2;
+}

@@ -1,5 +1,5 @@
 # camada05
 Camada 05
-commit :jack_o_lantern:
-modify :bamboo:
-stage :gift:
++ ***git commit*** :jack_o_lantern:
++ ***git add*** :bamboo:
++ ***git stage*** :gift:
